@@ -9,7 +9,7 @@ The goal of this repository is to help beginners learn Python step-by-step and p
 
 This repository includes notebooks and examples on:
 
-###1️⃣ Python Basics
+### 1️⃣ Python Basics
 
     - Variables
     
@@ -21,7 +21,7 @@ This repository includes notebooks and examples on:
     
     - Operators
 
-###2️⃣ Control Flow
+### 2️⃣ Control Flow
 
     - Conditional Statements (if, elif, else)
     
@@ -29,7 +29,7 @@ This repository includes notebooks and examples on:
     
     - Logical Operations
 
-###3️⃣ Loops
+### 3️⃣ Loops
 
     - for loops
     
@@ -37,7 +37,7 @@ This repository includes notebooks and examples on:
     
     - Loop control statements (break, continue, pass)
 
-###4️⃣ Python Data Structures
+### 4️⃣ Python Data Structures
 
     - Lists
     
@@ -47,7 +47,7 @@ This repository includes notebooks and examples on:
     
     - Dictionaries
 
-###5️⃣ String Operations
+### 5️⃣ String Operations
 
     - String slicing
     
@@ -55,7 +55,7 @@ This repository includes notebooks and examples on:
     
     - String manipulation
 
-###6️⃣ Functions
+### 6️⃣ Functions
   
     - Defining functions
     
@@ -65,7 +65,7 @@ This repository includes notebooks and examples on:
     
     - Lambda functions
 
-###7️⃣ File Handling
+### 7️⃣ File Handling
 
     - Reading files
     
@@ -73,7 +73,7 @@ This repository includes notebooks and examples on:
     
     - File operations
 
-###8️⃣ Jupyter Notebook Practice
+### 8️⃣ Jupyter Notebook Practice
 
     - Python code examples
     
@@ -81,9 +81,9 @@ This repository includes notebooks and examples on:
     
     - Concept demonstrations
 
-##🎯 Purpose of This Repository
+## 🎯 Purpose of This Repository
 
-  ###This project is created to:
+  ### This project is created to:
 
     Build a strong Python foundation
     
@@ -95,22 +95,22 @@ This repository includes notebooks and examples on:
 
 The repository focuses on understanding programming logic and applying it to data analysis problems.
 
-##🚀 Getting Started
-  ###1️⃣ Clone the Repository
+## 🚀 Getting Started
+  ### 1️⃣ Clone the Repository
   
     git clone https://github.com/theaditya24/COMPLETE-PYTHON-FOR-DATA-ANALYTICS.git
               
-  ###2️⃣ Navigate to the Project Folder
+  ### 2️⃣ Navigate to the Project Folder
   
     cd COMPLETE-PYTHON-FOR-DATA-ANALYTICS
   
-  ###3️⃣ Open in Jupyter Notebook
+  ### 3️⃣ Open in Jupyter Notebook
   
     jupyter notebook
 
   Then open any .ipynb notebook to start learning.
 
-##💡 Who This Repository Is For
+## 💡 Who This Repository Is For
 
       This repository is useful for:
       
@@ -122,7 +122,7 @@ The repository focuses on understanding programming logic and applying it to dat
       
       Developers revising Python fundamentals
 
-##📈 Future Improvements
+## 📈 Future Improvements
 
       Planned additions to this repository:
       
@@ -136,7 +136,7 @@ The repository focuses on understanding programming logic and applying it to dat
       
       Data analytics mini projects
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
       Aditya Raj
       

@@ -11,75 +11,75 @@ This repository includes notebooks and examples on:
 
 1️⃣ Python Basics
 
-  Variables
-  
-  Data Types
-  
-  Type Conversion
-  
-  Input & Output
-  
-  Operators
+    - Variables
+    
+    - Data Types
+    
+    - Type Conversion
+    
+    - Input & Output
+    
+    - Operators
 
 2️⃣ Control Flow
 
-  Conditional Statements (if, elif, else)
-  
-  Nested Conditions
-  
-  Logical Operations
+    - Conditional Statements (if, elif, else)
+    
+    - Nested Conditions
+    
+    - Logical Operations
 
 3️⃣ Loops
 
-  for loops
-  
-  while loops
-  
-  Loop control statements (break, continue, pass)
+    - for loops
+    
+    - while loops
+    
+    - Loop control statements (break, continue, pass)
 
 4️⃣ Python Data Structures
 
-  Lists
-  
-  Tuples
-  
-  Sets
-  
-  Dictionaries
+    - Lists
+    
+    - Tuples
+    
+    - Sets
+    
+    - Dictionaries
 
 5️⃣ String Operations
 
-  String slicing
-  
-  String methods
-  
-  String manipulation
+    - String slicing
+    
+    - String methods
+    
+    - String manipulation
 
 6️⃣ Functions
-
-  Defining functions
   
-  Parameters and arguments
-  
-  Return values
-  
-  Lambda functions
+    - Defining functions
+    
+    - Parameters and arguments
+    
+    - Return values
+    
+    - Lambda functions
 
 7️⃣ File Handling
 
-  Reading files
-  
-  Writing files
-  
-  File operations
+    - Reading files
+    
+    - Writing files
+    
+    - File operations
 
 8️⃣ Jupyter Notebook Practice
 
-  Python code examples
-  
-  Interactive learning
-  
-  Concept demonstrations
+    - Python code examples
+    
+    - Interactive learning
+    
+    - Concept demonstrations
 
 🎯 Purpose of This Repository
 

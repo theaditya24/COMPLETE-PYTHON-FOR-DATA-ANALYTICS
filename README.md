@@ -5,11 +5,11 @@ This repository contains structured learning material covering Python fundamenta
 
 The goal of this repository is to help beginners learn Python step-by-step and prepare for data analytics workflows using practical examples and exercises. Python is widely used in data analysis due to its powerful ecosystem of libraries such as NumPy, Pandas, and Matplotlib that help process and analyze large datasets efficiently.
 
-📚 Topics Covered
+## 📚 Topics Covered
 
 This repository includes notebooks and examples on:
 
-1️⃣ Python Basics
+###1️⃣ Python Basics
 
     - Variables
     
@@ -21,7 +21,7 @@ This repository includes notebooks and examples on:
     
     - Operators
 
-2️⃣ Control Flow
+###2️⃣ Control Flow
 
     - Conditional Statements (if, elif, else)
     
@@ -29,7 +29,7 @@ This repository includes notebooks and examples on:
     
     - Logical Operations
 
-3️⃣ Loops
+###3️⃣ Loops
 
     - for loops
     
@@ -37,7 +37,7 @@ This repository includes notebooks and examples on:
     
     - Loop control statements (break, continue, pass)
 
-4️⃣ Python Data Structures
+###4️⃣ Python Data Structures
 
     - Lists
     
@@ -47,7 +47,7 @@ This repository includes notebooks and examples on:
     
     - Dictionaries
 
-5️⃣ String Operations
+###5️⃣ String Operations
 
     - String slicing
     
@@ -55,7 +55,7 @@ This repository includes notebooks and examples on:
     
     - String manipulation
 
-6️⃣ Functions
+###6️⃣ Functions
   
     - Defining functions
     
@@ -65,7 +65,7 @@ This repository includes notebooks and examples on:
     
     - Lambda functions
 
-7️⃣ File Handling
+###7️⃣ File Handling
 
     - Reading files
     
@@ -73,7 +73,7 @@ This repository includes notebooks and examples on:
     
     - File operations
 
-8️⃣ Jupyter Notebook Practice
+###8️⃣ Jupyter Notebook Practice
 
     - Python code examples
     
@@ -81,9 +81,9 @@ This repository includes notebooks and examples on:
     
     - Concept demonstrations
 
-🎯 Purpose of This Repository
+##🎯 Purpose of This Repository
 
-  This project is created to:
+  ###This project is created to:
 
     Build a strong Python foundation
     
@@ -95,56 +95,56 @@ This repository includes notebooks and examples on:
 
 The repository focuses on understanding programming logic and applying it to data analysis problems.
 
-🚀 Getting Started
-  1️⃣ Clone the Repository
+##🚀 Getting Started
+  ###1️⃣ Clone the Repository
   
     git clone https://github.com/theaditya24/COMPLETE-PYTHON-FOR-DATA-ANALYTICS.git
               
-  2️⃣ Navigate to the Project Folder
+  ###2️⃣ Navigate to the Project Folder
   
     cd COMPLETE-PYTHON-FOR-DATA-ANALYTICS
   
-  3️⃣ Open in Jupyter Notebook
+  ###3️⃣ Open in Jupyter Notebook
   
     jupyter notebook
 
   Then open any .ipynb notebook to start learning.
 
-💡 Who This Repository Is For
+##💡 Who This Repository Is For
 
-  This repository is useful for:
-  
-  Beginners learning Python
-  
-  Students preparing for Data Analyst roles
-  
-  Anyone starting with Data Science
-  
-  Developers revising Python fundamentals
+      This repository is useful for:
+      
+      Beginners learning Python
+      
+      Students preparing for Data Analyst roles
+      
+      Anyone starting with Data Science
+      
+      Developers revising Python fundamentals
 
-📈 Future Improvements
+##📈 Future Improvements
 
-  Planned additions to this repository:
-  
-  NumPy tutorial
-  
-  Pandas for data analysis
-  
-  Data visualization with Matplotlib & Seaborn
-  
-  Exploratory Data Analysis (EDA)
-  
-  Data analytics mini projects
+      Planned additions to this repository:
+      
+      NumPy tutorial
+      
+      Pandas for data analysis
+      
+      Data visualization with Matplotlib & Seaborn
+      
+      Exploratory Data Analysis (EDA)
+      
+      Data analytics mini projects
 
-👨‍💻 Author
+##👨‍💻 Author
 
-  Aditya Raj
-  
-  B.Tech Computer Science & Engineering
-  Aspiring Data Analyst | Python Developer
-  
-  GitHub:
-  https://github.com/theaditya24
+      Aditya Raj
+      
+      B.Tech Computer Science & Engineering
+      Aspiring Data Analyst | Python Developer
+      
+      GitHub:
+      https://github.com/theaditya24
 
 ⭐ If you find this repository helpful, please give it a star!
 

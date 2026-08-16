@@ -1,0 +1,303 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Age,Gender,City,Category,Product,Quantity,Price,Discount,Final_Price,Cost,Profit,Payment_Mode,Delivery_Days,Returned,Rating,Marketing_Channel,Membership
+1001,2025-02-22,2005,Aarav Patel,31,Male,Bangalore,Beauty,Face Wash,1,2553,5,2425.35,1523.42,901.93,UPI,5.0,No,5.0,Referral,Gold
+1002,2025-05-23,2013,Priya Joshi,56,Female,Delhi,Sports,Yoga Mat,1,1607,25,1205.25,841.16,364.09,Net Banking,5.0,No,3.0,Referral,Gold
+1003,2025-02-05,2110,Ananya Patel,42,Female,Jaipur,Home,Chair,5,3262,20,13048.0,8054.54,4993.46,COD,2.0,No,2.0,Facebook,Gold
+1004,2025-03-25,2089,Arjun Singh,38,Male,Mumbai,Beauty,Lipstick,1,1701,20,1360.8,1095.71,265.09,UPI,7.0,No,3.0,Referral,Silver
+1005,2025-07-22,2032,Neha Verma,55,Female,Bangalore,Electronics,Smartphone,5,2877,5,13665.75,10651.13,3014.62,Net Banking,3.0,No,4.0,Google,Normal
+1006,2025-12-15,2060,Arjun Verma,53,Male,Chennai,Sports,Football,1,1198,5,1138.1,875.89,262.21,UPI,6.0,No,1.0,Facebook,Normal
+1007,2025-05-15,2112,Ishaan Verma,58,Male,Mumbai,Books,Novel,3,3861,5,11003.85,7799.57,3204.28,COD,2.0,No,2.0,Instagram,Normal
+1008,2025-06-07,2011,Neha Reddy,22,Male,Mumbai,Books,Biography,1,1216,10,1094.4,938.51,155.89,Net Banking,2.0,No,2.0,Google,Silver
+1009,2025-04-13,2048,Meera Reddy,25,Male,Mumbai,Home,Table Lamp,2,4717,30,6603.8,5319.2,1284.6,UPI,7.0,No,4.0,Google,Normal
+1010,2025-01-17,2086,Meera Singh,52,Male,Chennai,Clothing,T-Shirt,1,782,5,742.9,426.12,316.78,Net Banking,4.0,No,1.0,Referral,Silver
+1011,2025-08-28,2013,Aarav Nair,39,Male,Mumbai,Clothing,T-Shirt,1,3831,10,3447.9,2407.5,1040.4,Card,7.0,No,1.0,Referral,Gold
+1012,2025-02-08,2070,Aarav Patel,33,Male,Jaipur,Sports,Cricket Bat,3,4089,5,11653.65,9976.34,1677.31,Net Banking,7.0,No,5.0,Referral,Gold
+1013,2025-08-21,2020,Ananya Verma,31,Male,Bangalore,Clothing,Shoes,1,3498,10,3148.2,2752.41,395.79,UPI,5.0,No,5.0,Instagram,Gold
+1014,2025-09-18,2087,Ananya Nair,25,Male,Bangalore,Home,Table Lamp,5,4650,5,22087.5,12587.84,9499.66,UPI,2.0,No,2.0,Referral,Normal
+1015,2025-05-03,2059,Priya Patel,18,Female,Bangalore,Home,Chair,3,1973,25,4439.25,3554.36,884.89,UPI,4.0,Yes,2.0,Google,Normal
+1016,2025-03-22,2104,Ishaan Sharma,60,Female,Chennai,Books,Python Book,3,863,5,2459.55,1670.86,788.69,UPI,6.0,No,5.0,Google,Silver
+1017,2025-04-18,2034,Arjun Reddy,34,Male,Delhi,Electronics,Laptop,5,1573,10,7078.5,4591.22,2487.28,Net Banking,8.0,No,2.0,Instagram,Gold
+1018,2025-12-28,2116,Diya Sharma,41,Male,Jaipur,Books,Python Book,3,1623,25,3651.75,2573.18,1078.57,Card,7.0,Yes,1.0,Facebook,Gold
+1019,2025-07-28,2111,Diya Gupta,44,Male,Mumbai,Books,Python Book,2,1142,10,2055.6,1691.84,363.76,COD,3.0,No,2.0,Referral,Normal
+1020,2025-07-15,2118,Meera Joshi,37,Male,Mumbai,Beauty,Perfume,3,1604,30,3368.4,2679.38,689.02,UPI,8.0,No,4.0,Referral,Silver
+1021,2025-12-14,2015,Rohan Gupta,55,Female,Delhi,Books,Novel,3,3176,25,7146.0,5204.37,1941.63,UPI,2.0,No,5.0,Facebook,Normal
+1022,2025-10-23,2067,Arjun Singh,41,Female,Delhi,Books,Biography,5,4489,0,22445.0,15370.75,7074.25,COD,2.0,No,1.0,Instagram,Normal
+1023,2025-10-11,2087,Neha Gupta,57,Female,Jaipur,Books,Data Science Book,4,2972,15,10104.8,8023.44,2081.36,UPI,5.0,No,4.0,Google,Silver
+1024,2025-09-19,2066,Ishaan Joshi,23,Male,Chennai,Home,Chair,4,3919,15,13324.6,10479.39,2845.21,COD,4.0,No,2.0,Google,Gold
+1025,2025-02-07,2050,Meera Nair,33,Male,Chennai,Electronics,Laptop,2,4192,20,6707.2,5683.74,1023.46,UPI,7.0,No,5.0,Instagram,Silver
+1026,2025-03-04,2077,Priya Reddy,57,Female,Bangalore,Clothing,Jeans,5,4105,0,20525.0,15293.01,5231.99,Net Banking,6.0,No,4.0,Referral,Silver
+1027,2025-05-21,2041,Arjun Patel,26,Male,Mumbai,Books,Python Book,3,4570,15,11653.5,8965.76,2687.74,Net Banking,4.0,No,3.0,Google,Gold
+1028,2025-04-16,2090,Aarav Nair,48,Male,Pune,Sports,Dumbbells,3,4745,15,12099.75,8415.63,3684.12,COD,6.0,No,4.0,Referral,Normal
+1029,2025-01-15,2060,Diya Sharma,43,Male,Delhi,Beauty,Perfume,4,2097,10,7549.2,5303.63,2245.57,Net Banking,8.0,Yes,4.0,Referral,Gold
+1030,2025-06-22,2054,Rohan Patel,48,Male,Chennai,Electronics,Headphones,4,2981,5,11327.8,8033.05,3294.75,UPI,8.0,No,4.0,Facebook,Gold
+1031,2025-01-11,2015,Sneha Singh,47,Female,Pune,Beauty,Face Wash,1,554,5,526.3,326.19,200.11,Card,7.0,No,2.0,Instagram,Gold
+1032,2025-07-12,2107,Ishaan Singh,24,Female,Chennai,Books,Novel,5,510,10,2295.0,1724.76,570.24,UPI,7.0,No,2.0,Instagram,Silver
+1033,2025-01-07,2082,Meera Gupta,45,Male,Chennai,Home,Table Lamp,3,864,20,2073.6,1610.44,463.16,COD,4.0,No,4.0,Referral,Silver
+1034,2025-05-23,2079,Ishaan Nair,39,Male,Jaipur,Sports,Yoga Mat,3,2311,30,4853.1,4256.74,596.36,COD,6.0,No,2.0,Google,Silver
+1035,2025-04-08,2031,Neha Reddy,59,Female,Jaipur,Books,Data Science Book,3,2563,20,6151.2,3405.01,2746.19,UPI,8.0,Yes,4.0,Google,Silver
+1036,2025-06-26,2059,Rohan Verma,34,Male,Delhi,Beauty,Perfume,3,3323,15,8473.65,6301.99,2171.66,Card,7.0,No,5.0,Google,Gold
+1037,2025-02-21,2039,Aarav Gupta,35,Male,Delhi,Clothing,Shoes,3,4597,20,11032.8,7160.83,3871.97,COD,3.0,No,3.0,Google,Normal
+1038,2025-06-24,2062,Vivaan Patel,43,Female,Delhi,Sports,Football,1,2629,15,2234.65,1603.47,631.18,UPI,8.0,No,1.0,Facebook,Gold
+1039,2025-11-13,2039,Sneha Nair,37,Male,Bangalore,Clothing,T-Shirt,5,3709,20,14836.0,11255.25,3580.75,UPI,5.0,No,5.0,Google,Normal
+1040,2025-02-08,2061,Rohan Sharma,32,Female,Chennai,Clothing,Jacket,1,1586,5,1506.7,920.34,586.36,COD,6.0,No,4.0,Referral,Gold
+1041,2025-04-26,2008,Diya Verma,56,Female,Jaipur,Beauty,Perfume,3,1920,15,4896.0,2889.48,2006.52,UPI,2.0,No,3.0,Facebook,Normal
+1042,2025-11-03,2033,Aarav Patel,32,Male,Chennai,Sports,Yoga Mat,5,4723,15,20072.75,14115.47,5957.28,COD,6.0,No,4.0,Google,Silver
+1043,2025-09-09,2042,Ishaan Patel,28,Female,Jaipur,Home,Table Lamp,3,1786,20,4286.4,3011.45,1274.95,Net Banking,4.0,No,4.0,Referral,Normal
+1044,2025-07-26,2060,Kabir Sharma,30,Female,Bangalore,Electronics,Smartwatch,1,2876,10,2588.4,1716.49,871.91,Net Banking,6.0,No,1.0,Instagram,Gold
+1045,2025-01-15,2021,Rohan Sharma,53,Female,Delhi,Books,Python Book,3,3889,25,8750.25,6297.11,2453.14,Card,7.0,No,5.0,Instagram,Silver
+1046,2025-08-01,2019,Kabir Singh,56,Male,Delhi,Electronics,Smartphone,4,2690,20,8608.0,6859.66,1748.34,COD,6.0,No,4.0,Referral,Silver
+1047,2025-10-28,2069,Meera Joshi,39,Female,Jaipur,Home,Chair,1,2617,25,1962.75,1284.61,678.14,COD,5.0,No,4.0,Google,Normal
+1048,2025-12-28,2102,Ishaan Gupta,49,Male,Mumbai,Sports,Cricket Bat,4,657,10,2365.2,1917.34,447.86,COD,7.0,No,4.0,Referral,Gold
+1049,2025-03-21,2051,Ishaan Patel,39,Female,Pune,Home,Table Lamp,1,1480,15,1258.0,1075.37,182.63,Net Banking,7.0,No,3.0,Instagram,Normal
+1050,2025-02-20,2039,Aarav Sharma,38,Male,Pune,Electronics,Smartphone,3,2163,25,4866.75,2830.66,2036.09,COD,7.0,No,1.0,Google,Gold
+1051,2025-11-09,2117,Sneha Gupta,32,Female,Chennai,Home,Table Lamp,5,1775,5,8431.25,5153.81,3277.44,COD,5.0,No,5.0,Instagram,Silver
+1052,2025-06-03,2109,Rohan Singh,42,Female,Delhi,Books,Python Book,1,3918,10,3526.2,3158.34,367.86,Card,5.0,No,4.0,Facebook,Normal
+1053,2025-12-18,2064,Rohan Singh,56,Female,Mumbai,Books,Data Science Book,1,3542,10,3187.8,1762.33,1425.47,Card,7.0,No,1.0,Google,Normal
+1054,2025-03-09,2023,Ananya Gupta,52,Female,Bangalore,Electronics,Laptop,3,3911,0,11733.0,8833.2,2899.8,COD,5.0,No,3.0,Facebook,Silver
+1055,2025-04-26,2072,Priya Patel,43,Male,Pune,Books,Data Science Book,1,4136,0,4136.0,2478.56,1657.44,UPI,8.0,No,4.0,Facebook,Normal
+1056,2025-10-15,2082,Meera Verma,59,Female,Delhi,Sports,Yoga Mat,1,2215,15,1882.75,1052.0,830.75,Card,2.0,Yes,5.0,Instagram,Silver
+1057,2025-08-21,2094,Diya Nair,59,Male,Jaipur,Sports,Football,1,2223,20,1778.4,1062.56,715.84,Net Banking,7.0,No,5.0,Facebook,Gold
+1058,2025-07-05,2046,Aarav Nair,35,Male,Delhi,Beauty,Lipstick,2,3932,15,6684.4,5900.28,784.12,Net Banking,7.0,Yes,3.0,Google,Normal
+1059,2025-10-17,2105,Ananya Joshi,27,Male,Pune,Beauty,Face Wash,1,3032,5,2880.4,2581.09,299.31,Card,3.0,No,5.0,Facebook,Gold
+1060,2025-05-02,2017,Neha Nair,51,Male,Chennai,Electronics,Laptop,2,421,10,757.8,626.32,131.48,UPI,2.0,No,1.0,Facebook,Normal
+1061,2025-01-23,2004,Aarav Reddy,43,Female,Chennai,Home,Mixer,4,4427,5,16822.6,14818.95,2003.65,UPI,7.0,No,5.0,Referral,Gold
+1062,2025-11-16,2077,Arjun Verma,47,Female,Delhi,Electronics,Headphones,5,1515,0,7575.0,4500.82,3074.18,UPI,5.0,No,5.0,Google,Silver
+1063,2025-08-01,2033,Priya Gupta,48,Male,Delhi,Sports,Cricket Bat,4,3076,30,8612.8,6104.1,2508.7,UPI,7.0,Yes,3.0,Instagram,Normal
+1064,2025-10-15,2086,Kabir Sharma,36,Female,Pune,Beauty,Lipstick,2,4857,0,9714.0,7336.62,2377.38,UPI,8.0,No,1.0,Google,Gold
+1065,2025-07-08,2055,Arjun Sharma,56,Female,Delhi,Beauty,Shampoo,2,1186,10,2134.8,1805.79,329.01,Card,8.0,No,3.0,Facebook,Silver
+1066,2025-02-05,2028,Kabir Nair,47,Female,Mumbai,Books,Novel,2,1473,20,2356.8,1838.47,518.33,COD,6.0,No,1.0,Facebook,Normal
+1067,2025-01-26,2063,Sneha Reddy,44,Female,Mumbai,Home,Mixer,1,1574,5,1495.3,1217.25,278.05,UPI,5.0,No,3.0,Instagram,Silver
+1068,2025-11-03,2099,Diya Verma,36,Female,Delhi,Beauty,Shampoo,5,2826,0,14130.0,8862.07,5267.93,UPI,3.0,No,2.0,Referral,Gold
+1069,2025-12-09,2006,Kabir Sharma,47,Male,Pune,Clothing,Shoes,5,2185,20,8740.0,6516.14,2223.86,Net Banking,7.0,No,1.0,Referral,Silver
+1070,2025-11-13,2014,Ananya Nair,55,Female,Bangalore,Electronics,Smartwatch,1,2960,5,2812.0,2335.26,476.74,UPI,8.0,No,3.0,Facebook,Normal
+1071,2025-02-28,2045,Neha Gupta,33,Male,Mumbai,Books,Python Book,3,1677,0,5031.0,3665.93,1365.07,COD,4.0,No,2.0,Google,Normal
+1072,2025-10-24,2042,Ishaan Joshi,27,Female,Delhi,Electronics,Smartphone,4,4100,30,11480.0,8579.09,2900.91,Net Banking,6.0,No,5.0,Facebook,Silver
+1073,2025-08-20,2083,Vivaan Nair,47,Male,Jaipur,Home,Mixer,3,4456,0,13368.0,8804.74,4563.26,Card,2.0,No,3.0,Referral,Normal
+1074,2025-06-25,2006,Ananya Reddy,46,Male,Pune,Clothing,T-Shirt,4,1147,30,3211.6,2777.05,434.55,COD,3.0,No,1.0,Referral,Silver
+1075,2025-12-14,2117,Sneha Gupta,39,Male,Bangalore,Books,Novel,3,839,10,2265.3,1320.84,944.46,Card,7.0,No,3.0,Facebook,Normal
+1076,2025-11-26,2095,Ishaan Patel,59,Female,Bangalore,Beauty,Shampoo,2,994,10,1789.2,1334.07,455.13,COD,8.0,Yes,2.0,Facebook,Gold
+1077,2025-03-21,2107,Neha Sharma,60,Female,Bangalore,Clothing,Jacket,4,1872,5,7113.6,6402.18,711.42,Card,6.0,No,1.0,Google,Gold
+1078,2025-05-02,2101,Meera Singh,52,Male,Pune,Clothing,Jeans,4,657,15,2233.8,1513.41,720.39,Net Banking,7.0,No,5.0,Google,Silver
+1079,2025-09-28,2078,Diya Verma,21,Female,Pune,Beauty,Shampoo,4,2608,30,7302.4,4992.32,2310.08,UPI,8.0,No,2.0,Instagram,Silver
+1080,2025-08-12,2120,Aarav Nair,21,Female,Bangalore,Electronics,Smartphone,3,3980,20,9552.0,5746.22,3805.78,COD,4.0,No,2.0,Instagram,Silver
+1081,2025-06-21,2090,Diya Reddy,46,Male,Delhi,Clothing,T-Shirt,3,1111,30,2333.1,1866.82,466.28,UPI,8.0,No,2.0,Google,Normal
+1082,2025-01-25,2108,Meera Sharma,58,Male,Chennai,Beauty,Shampoo,1,2660,5,2527.0,1656.2,870.8,Card,2.0,No,5.0,Instagram,Normal
+1083,2025-02-13,2070,Arjun Sharma,42,Female,Delhi,Books,Python Book,5,3712,5,17632.0,13797.57,3834.43,Net Banking,6.0,No,3.0,Facebook,Normal
+1084,2025-11-18,2018,Aarav Joshi,52,Female,Chennai,Electronics,Headphones,1,3124,5,2967.8,2393.62,574.18,Card,4.0,No,5.0,Referral,Normal
+1085,2025-08-23,2114,Aarav Joshi,37,Female,Bangalore,Sports,Cricket Bat,2,816,25,1224.0,1005.72,218.28,Net Banking,4.0,No,2.0,Google,Silver
+1086,2025-08-12,2044,Diya Reddy,49,Female,Bangalore,Books,Novel,3,2538,0,7614.0,6317.87,1296.13,COD,5.0,No,4.0,Referral,Gold
+1087,2025-06-17,2055,Diya Reddy,40,Female,Delhi,Sports,Cricket Bat,5,2706,10,12177.0,7134.62,5042.38,COD,7.0,No,3.0,Referral,Silver
+1088,2025-12-14,2087,Meera Sharma,26,Male,Mumbai,Beauty,Face Wash,1,3627,10,3264.3,2381.57,882.73,COD,6.0,No,1.0,Instagram,Normal
+1089,2025-10-21,2036,Ananya Patel,19,Male,Jaipur,Clothing,Shoes,3,3347,15,8534.85,6973.65,1561.2,Net Banking,7.0,No,3.0,Instagram,Silver
+1090,2025-09-09,2023,Neha Reddy,23,Female,Chennai,Books,Biography,2,2639,25,3958.5,3446.93,511.57,COD,5.0,No,2.0,Facebook,Silver
+1091,2025-04-13,2047,Arjun Joshi,47,Male,Bangalore,Clothing,Jeans,3,4467,5,12730.95,7542.79,5188.16,UPI,2.0,Yes,2.0,Referral,Normal
+1092,2025-10-22,2060,Ishaan Joshi,26,Male,Mumbai,Beauty,Shampoo,5,3665,30,12827.5,8893.33,3934.17,Net Banking,5.0,No,3.0,Instagram,Gold
+1093,2025-12-30,2011,Rohan Singh,58,Female,Mumbai,Home,Vacuum Cleaner,3,1648,5,4696.8,3113.66,1583.14,COD,8.0,No,5.0,Instagram,Normal
+1094,2025-11-06,2011,Aarav Verma,59,Male,Bangalore,Beauty,Perfume,5,1563,5,7424.25,5795.05,1629.2,Net Banking,,No,5.0,Instagram,Silver
+1095,2025-12-17,2021,Meera Nair,48,Female,Mumbai,Beauty,Lipstick,3,4256,5,12129.6,10087.47,2042.13,COD,2.0,No,4.0,Facebook,Normal
+1096,2025-10-15,2058,Ananya Gupta,24,Male,Pune,Books,Data Science Book,4,1371,30,3838.8,2609.19,1229.61,Net Banking,4.0,No,2.0,Referral,Gold
+1097,2025-09-13,2064,Aarav Patel,43,Female,Mumbai,Clothing,Jacket,5,2861,5,13589.75,11104.08,2485.67,Card,4.0,No,4.0,Instagram,Gold
+1098,2025-02-25,2052,Priya Sharma,43,Male,Bangalore,Books,Biography,5,4155,10,18697.5,13795.8,4901.7,Card,8.0,No,3.0,Facebook,Gold
+1099,2025-12-15,2048,Priya Joshi,27,Male,Bangalore,Sports,Dumbbells,5,2591,30,9068.5,8127.02,941.48,Net Banking,5.0,No,2.0,Instagram,Gold
+1100,2025-09-21,2079,Neha Verma,55,Female,Bangalore,Clothing,Jacket,4,4554,15,15483.6,9323.13,6160.47,Net Banking,5.0,No,5.0,Facebook,Silver
+1101,2025-12-19,2101,Sneha Singh,21,Female,Mumbai,Electronics,Headphones,3,1197,15,3052.35,2302.37,749.98,Net Banking,7.0,Yes,5.0,Google,Gold
+1102,2025-03-19,2079,Meera Sharma,26,Male,Bangalore,Home,Mixer,2,455,15,773.5,510.35,263.15,COD,8.0,No,2.0,Referral,Normal
+1103,2025-07-01,2032,Rohan Verma,32,Female,Pune,Sports,Yoga Mat,2,4065,20,6504.0,4356.47,2147.53,Card,3.0,No,3.0,Referral,Silver
+1104,2025-12-13,2103,Diya Verma,20,Female,Chennai,Sports,Yoga Mat,5,2540,10,11430.0,6774.06,4655.94,UPI,8.0,No,4.0,Referral,Normal
+1105,2025-10-15,2076,Ananya Singh,21,Male,Chennai,Books,Biography,2,1955,30,2737.0,2021.28,715.72,Card,7.0,Yes,2.0,Referral,Silver
+1106,2025-03-22,2097,Rohan Joshi,36,Male,Delhi,Beauty,Shampoo,1,1426,0,1426.0,1265.69,160.31,Card,3.0,No,4.0,Instagram,Gold
+1107,2025-05-29,2014,Priya Verma,47,Female,Mumbai,Sports,Cricket Bat,1,3552,30,2486.4,1798.62,687.78,Net Banking,6.0,No,1.0,Instagram,Silver
+1108,2025-06-01,2082,Kabir Nair,50,Female,Delhi,Clothing,Shoes,3,1825,0,5475.0,4422.79,1052.21,Net Banking,8.0,No,2.0,Google,Gold
+1109,2025-08-17,2074,Aarav Verma,59,Female,Chennai,Sports,Yoga Mat,2,355,10,639.0,437.24,201.76,Card,7.0,Yes,3.0,Instagram,Silver
+1110,2025-12-20,2029,Diya Reddy,27,Female,Chennai,Books,Python Book,4,4416,25,13248.0,10856.0,2392.0,COD,3.0,No,3.0,Referral,Normal
+1111,2025-12-27,2071,Arjun Singh,54,Male,Mumbai,Beauty,Perfume,2,970,20,1552.0,1096.27,455.73,COD,8.0,No,5.0,Referral,Gold
+1112,2025-08-17,2059,Sneha Sharma,53,Female,Chennai,Beauty,Perfume,5,4304,0,21520.0,18606.43,2913.57,COD,5.0,No,4.0,Referral,Silver
+1113,2025-12-25,2120,Meera Sharma,36,Female,Mumbai,Electronics,Smartphone,5,898,0,4490.0,3135.34,1354.66,Card,2.0,No,1.0,Referral,Silver
+1114,2025-12-05,2016,Diya Nair,51,Male,Chennai,Sports,Dumbbells,4,3377,0,13508.0,10657.21,2850.79,Card,4.0,No,2.0,Instagram,Silver
+1115,2025-08-24,2098,Vivaan Sharma,60,Female,Bangalore,Sports,Dumbbells,5,3407,30,11924.5,7517.0,4407.5,UPI,7.0,No,3.0,Instagram,Gold
+1116,2025-07-25,2100,Aarav Gupta,50,Female,Mumbai,Home,Mixer,4,698,5,2652.4,2146.29,506.11,COD,8.0,No,5.0,Facebook,Gold
+1117,2025-02-01,2081,Ishaan Nair,53,Female,Delhi,Books,Python Book,5,2110,15,8967.5,5875.28,3092.22,COD,3.0,No,5.0,Referral,Normal
+1118,2025-10-03,2019,Meera Sharma,53,Female,Jaipur,Books,Biography,4,1522,10,5479.2,3735.51,1743.69,Card,7.0,No,2.0,Facebook,Gold
+1119,2025-04-08,2006,Vivaan Singh,55,Male,Jaipur,Books,Novel,4,3339,0,13356.0,9849.68,3506.32,Card,6.0,No,4.0,Facebook,Silver
+1120,2025-09-03,2118,Ananya Joshi,36,Female,Jaipur,Electronics,Smartphone,2,1261,25,1891.5,1702.07,189.43,COD,5.0,No,5.0,Facebook,Normal
+1121,2025-04-15,2095,Diya Sharma,34,Female,Pune,Sports,Dumbbells,1,4146,30,2902.2,2449.18,453.02,Card,4.0,No,4.0,Google,Silver
+1122,2025-06-22,2095,Meera Reddy,28,Female,Mumbai,Home,Vacuum Cleaner,4,4810,25,14430.0,12701.47,1728.53,Card,7.0,No,4.0,Referral,Gold
+1123,2025-12-09,2081,Ananya Patel,27,Male,Mumbai,Home,Mixer,5,577,30,2019.5,1709.19,310.31,Net Banking,8.0,No,1.0,Referral,Normal
+1124,2025-01-09,2003,Arjun Nair,29,Male,Delhi,Sports,Football,1,4659,20,3727.2,2586.56,1140.64,Card,4.0,No,3.0,Facebook,Silver
+1125,2025-05-05,2109,Vivaan Sharma,23,Female,Jaipur,Books,Biography,1,3356,15,2852.6,2027.2,825.4,Net Banking,8.0,No,2.0,Instagram,Normal
+1126,2025-06-19,2030,Ananya Reddy,35,Male,Delhi,Electronics,Smartphone,1,4394,30,3075.8,2158.81,916.99,COD,2.0,No,1.0,Instagram,Gold
+1127,2025-07-23,2073,Kabir Joshi,42,Male,Chennai,Books,Novel,2,1481,30,2073.4,1735.94,337.46,UPI,3.0,No,3.0,Facebook,Gold
+1128,2025-11-11,2004,Ishaan Verma,46,Female,Mumbai,Electronics,Smartwatch,2,922,10,1659.6,1264.3,395.3,COD,4.0,No,4.0,Referral,Silver
+1129,2025-02-07,2082,Diya Nair,38,Female,Delhi,Clothing,Shoes,1,2719,30,1903.3,1210.99,692.31,UPI,8.0,Yes,2.0,Facebook,Silver
+1130,2025-08-18,2012,Priya Patel,56,Female,Jaipur,Books,Data Science Book,1,1385,0,1385.0,852.59,532.41,UPI,2.0,No,5.0,Referral,Gold
+1131,2025-03-28,2009,Diya Nair,35,Female,Pune,Beauty,Perfume,5,4568,5,21698.0,17138.4,4559.6,Net Banking,3.0,No,3.0,Facebook,Silver
+1132,2025-06-05,2049,Priya Reddy,39,Female,Chennai,Clothing,Shoes,5,1901,15,8079.25,4746.08,3333.17,Card,6.0,No,4.0,Google,Silver
+1133,2025-11-21,2049,Rohan Nair,41,Male,Bangalore,Books,Python Book,4,2914,10,10490.4,8467.91,2022.49,Card,4.0,No,5.0,Google,Normal
+1134,2025-12-21,2082,Rohan Singh,34,Male,Chennai,Home,Mixer,4,2017,15,6857.8,5686.42,1171.38,Net Banking,3.0,No,4.0,Instagram,Silver
+1135,2025-12-21,2090,Arjun Patel,24,Male,Chennai,Home,Table Lamp,5,3583,20,14332.0,10423.87,3908.13,COD,4.0,No,1.0,Instagram,Normal
+1136,2025-05-13,2074,Ananya Reddy,41,Female,Jaipur,Beauty,Shampoo,3,3826,0,11478.0,6355.27,5122.73,Card,7.0,No,5.0,Instagram,Silver
+1137,2025-03-14,2067,Meera Joshi,48,Male,Jaipur,Electronics,Headphones,4,1003,0,4012.0,3373.94,638.06,Net Banking,3.0,No,3.0,Facebook,Gold
+1138,2025-03-26,2021,Priya Nair,47,Male,Jaipur,Beauty,Face Wash,1,3110,25,2332.5,1372.16,960.34,Card,6.0,No,2.0,Referral,Silver
+1139,2025-04-20,2112,Arjun Gupta,41,Female,Mumbai,Electronics,Smartphone,4,3818,15,12981.2,7159.88,5821.32,Net Banking,8.0,Yes,1.0,Referral,Normal
+1140,2025-02-28,2087,Neha Verma,57,Male,Chennai,Beauty,Lipstick,5,3483,20,13932.0,9576.72,4355.28,Card,8.0,No,4.0,Google,Silver
+1141,2025-11-02,2082,Arjun Gupta,53,Male,Jaipur,Electronics,Smartphone,3,1458,20,3499.2,2400.32,1098.88,COD,5.0,Yes,4.0,Facebook,Silver
+1142,2025-07-16,2088,Meera Nair,46,Female,Mumbai,Home,Mixer,3,378,15,963.9,576.21,387.69,UPI,5.0,No,5.0,Google,Silver
+1143,2025-08-23,2074,Vivaan Verma,52,Female,Bangalore,Electronics,Headphones,2,4704,10,8467.2,5155.45,3311.75,UPI,2.0,No,4.0,Referral,Normal
+1144,2025-01-17,2057,Vivaan Singh,31,Female,Chennai,Clothing,Shoes,1,2327,10,2094.3,1793.1,301.2,Net Banking,2.0,No,3.0,Google,Gold
+1145,2025-10-03,2110,Arjun Patel,26,Female,Delhi,Clothing,T-Shirt,5,3173,20,12692.0,8229.24,4462.76,COD,4.0,No,3.0,Google,Normal
+1146,2025-12-13,2081,Kabir Nair,46,Male,Chennai,Clothing,Jeans,2,2938,30,4113.2,2618.64,1494.56,UPI,4.0,No,2.0,Facebook,Normal
+1147,2025-02-17,2046,Vivaan Nair,31,Female,Mumbai,Books,Biography,4,2981,20,9539.2,5254.82,4284.38,Net Banking,7.0,No,4.0,Facebook,Silver
+1148,2025-12-16,2108,Meera Sharma,25,Male,Jaipur,Home,Vacuum Cleaner,5,4275,30,14962.5,10029.5,4933.0,Net Banking,8.0,Yes,1.0,Referral,Gold
+1149,2025-05-21,2086,Ishaan Gupta,21,Female,Chennai,Beauty,Perfume,3,1602,30,3364.2,2948.57,415.63,COD,4.0,No,3.0,Google,Silver
+1150,2025-03-09,2002,Neha Joshi,25,Female,Chennai,Beauty,Face Wash,1,308,5,292.6,209.76,82.84,Card,2.0,No,5.0,Google,Silver
+1151,2025-03-12,2019,Vivaan Sharma,57,Male,Jaipur,Electronics,Laptop,1,2866,10,2579.4,2214.02,365.38,COD,7.0,No,2.0,Google,Silver
+1152,2025-03-05,2041,Diya Singh,35,Male,Mumbai,Home,Table Lamp,2,1010,0,2020.0,1209.99,810.01,COD,5.0,No,4.0,Instagram,Normal
+1153,2025-06-01,2031,Meera Patel,51,Male,Pune,Books,Python Book,5,4474,5,21251.5,17250.8,4000.7,COD,2.0,Yes,2.0,Referral,Silver
+1154,2025-01-08,2051,Arjun Verma,58,Female,Jaipur,Home,Vacuum Cleaner,4,897,0,3588.0,2711.01,876.99,Net Banking,8.0,Yes,1.0,Google,Silver
+1155,2025-03-21,2107,Ishaan Patel,37,Female,Chennai,Electronics,Headphones,1,4488,5,4263.6,3798.91,464.69,Card,8.0,Yes,4.0,Instagram,Silver
+1156,2025-12-03,2090,Aarav Gupta,49,Female,Bangalore,Electronics,Smartwatch,5,750,10,3375.0,2643.06,731.94,COD,3.0,No,1.0,Google,Normal
+1157,2025-09-26,2010,Meera Reddy,50,Female,Delhi,Books,Novel,1,3044,30,2130.8,1492.12,638.68,Net Banking,7.0,No,,Google,Silver
+1158,2025-01-02,2047,Kabir Gupta,29,Male,Bangalore,Clothing,Jacket,1,1244,5,1181.8,956.4,225.4,Net Banking,5.0,No,1.0,Google,Silver
+1159,2025-09-15,2067,Aarav Nair,22,Female,Pune,Beauty,Lipstick,3,938,20,2251.2,1531.9,719.3,COD,8.0,No,1.0,Referral,Gold
+1160,2025-11-15,2099,Ananya Singh,27,Male,Jaipur,Books,Python Book,3,4918,30,10327.8,6778.84,3548.96,UPI,5.0,No,3.0,Facebook,Normal
+1161,2025-06-07,2063,Aarav Gupta,35,Male,Delhi,Beauty,Face Wash,3,311,30,653.1,509.45,143.65,Card,5.0,No,5.0,Referral,Normal
+1162,2025-07-21,2017,Ananya Verma,34,Female,Jaipur,Books,Biography,1,1082,20,865.6,516.53,349.07,COD,7.0,No,5.0,Facebook,Gold
+1163,2025-08-19,2099,Ananya Reddy,37,Female,Pune,Electronics,Smartphone,2,1192,5,2264.8,1329.39,935.41,UPI,4.0,Yes,4.0,Facebook,Normal
+1164,2025-05-08,2039,Rohan Gupta,19,Female,Jaipur,Beauty,Face Wash,2,2985,5,5671.5,3300.38,2371.12,Card,7.0,Yes,4.0,Instagram,Gold
+1165,2025-07-25,2118,Vivaan Sharma,22,Male,Chennai,Electronics,Laptop,1,2120,5,2014.0,1247.36,766.64,Net Banking,4.0,No,1.0,Instagram,Silver
+1166,2025-08-10,2088,Kabir Gupta,40,Male,Mumbai,Electronics,Laptop,4,714,5,2713.2,2369.83,343.37,COD,5.0,No,4.0,Google,Gold
+1167,2025-09-03,2026,Ishaan Singh,58,Male,Jaipur,Home,Vacuum Cleaner,3,4386,15,11184.3,9607.01,1577.29,COD,5.0,No,3.0,Referral,Silver
+1168,2025-11-02,2068,Priya Singh,28,Male,Mumbai,Home,Chair,4,2515,5,9557.0,5343.53,4213.47,Card,5.0,No,3.0,Instagram,Gold
+1169,2025-06-12,2091,Neha Joshi,54,Male,Bangalore,Home,Table Lamp,3,1723,5,4910.55,3107.36,1803.19,Card,2.0,No,3.0,Referral,Normal
+1170,2025-11-05,2118,Sneha Singh,26,Female,Chennai,Books,Python Book,4,610,0,2440.0,1389.97,1050.03,Card,4.0,No,5.0,Facebook,Gold
+1171,2025-09-27,2051,Sneha Patel,39,Female,Pune,Electronics,Smartphone,5,1460,30,5110.0,3008.88,2101.12,Card,7.0,No,1.0,Referral,Normal
+1172,2025-11-11,2023,Kabir Verma,36,Male,Mumbai,Sports,Yoga Mat,2,4903,25,7354.5,6334.87,1019.63,UPI,8.0,No,2.0,Referral,Normal
+1173,2025-04-24,2043,Neha Patel,33,Female,Pune,Electronics,Smartphone,5,2906,30,10171.0,9038.32,1132.68,Card,3.0,No,1.0,Instagram,Normal
+1174,2025-12-21,2001,Aarav Nair,46,Female,Mumbai,Beauty,Lipstick,4,393,10,1414.8,881.97,532.83,Net Banking,7.0,No,3.0,Referral,Silver
+1175,2025-11-30,2103,Aarav Verma,19,Female,Pune,Home,Table Lamp,1,4227,30,2958.9,2522.22,436.68,UPI,2.0,Yes,2.0,Google,Silver
+1176,2025-11-11,2022,Sneha Nair,28,Male,Delhi,Clothing,T-Shirt,5,1062,10,4779.0,3622.06,1156.94,COD,7.0,No,1.0,Google,Silver
+1177,2025-07-21,2001,Kabir Patel,36,Female,Mumbai,Beauty,Lipstick,3,2736,5,7797.6,4550.45,3247.15,UPI,4.0,Yes,4.0,Google,Normal
+1178,2025-08-30,2050,Diya Joshi,42,Female,Mumbai,Books,Novel,4,1246,10,4485.6,3699.3,786.3,Net Banking,6.0,Yes,3.0,Referral,Silver
+1179,2025-12-23,2070,Kabir Singh,53,Male,Jaipur,Books,Python Book,3,4922,0,14766.0,8902.36,5863.64,Net Banking,8.0,No,1.0,Referral,Normal
+1180,2025-01-18,2080,Diya Patel,46,Male,Mumbai,Clothing,Shoes,3,946,15,2412.3,2088.98,323.32,Card,7.0,No,5.0,Google,Gold
+1181,2025-11-01,2051,Arjun Joshi,35,Female,Delhi,Sports,Football,4,1954,30,5471.2,4210.25,1260.95,Net Banking,6.0,Yes,1.0,Google,Gold
+1182,2025-05-27,2050,Ishaan Reddy,54,Female,Delhi,Home,Mixer,1,4909,30,3436.3,2011.43,1424.87,Card,4.0,No,3.0,Google,Normal
+1183,2025-01-26,2044,Rohan Verma,35,Female,Chennai,Home,Table Lamp,1,3542,10,3187.8,2523.72,664.08,UPI,2.0,No,3.0,Google,Gold
+1184,2025-11-27,2053,Neha Reddy,51,Female,Delhi,Books,Biography,3,2507,25,5640.75,3925.23,1715.52,Card,8.0,Yes,4.0,Referral,Gold
+1185,2025-01-30,2091,Ananya Verma,41,Female,Bangalore,Home,Mixer,2,1879,30,2630.6,1631.64,998.96,Net Banking,4.0,No,4.0,Instagram,Normal
+1186,2025-08-31,2115,Rohan Patel,36,Male,Jaipur,Electronics,Smartphone,3,4304,20,10329.6,7294.1,3035.5,UPI,8.0,No,3.0,Google,Gold
+1187,2025-01-11,2083,Diya Sharma,32,Female,Bangalore,Beauty,Perfume,2,2504,25,3756.0,2604.14,1151.86,COD,3.0,No,1.0,Facebook,Silver
+1188,2025-12-13,2001,Arjun Joshi,53,Female,Pune,Sports,Yoga Mat,4,2364,5,8983.2,6408.11,2575.09,UPI,2.0,No,5.0,Facebook,Silver
+1189,2025-11-30,2116,Aarav Nair,60,Female,Chennai,Beauty,Lipstick,3,2439,25,5487.75,4384.07,1103.68,Card,3.0,No,2.0,Referral,Silver
+1190,2025-12-29,2029,Ishaan Reddy,60,Female,Bangalore,Books,Biography,4,3480,25,10440.0,5871.06,4568.94,COD,7.0,No,2.0,Google,Silver
+1191,2025-04-04,2046,Ananya Verma,44,Female,Pune,Electronics,Smartwatch,2,2418,25,3627.0,3021.0,606.0,COD,3.0,No,3.0,Referral,Gold
+1192,2025-09-14,2007,Diya Gupta,30,Female,Jaipur,Sports,Football,5,883,15,3752.75,3232.24,520.51,Net Banking,5.0,Yes,4.0,Google,Gold
+1193,2025-08-20,2063,Vivaan Gupta,57,Female,Chennai,Sports,Yoga Mat,2,2867,25,4300.5,2452.6,1847.9,Net Banking,3.0,No,2.0,Referral,Silver
+1194,2025-01-08,2001,Ishaan Singh,32,Female,Pune,Electronics,Laptop,5,1933,25,7248.75,4933.39,2315.36,Card,7.0,Yes,5.0,Facebook,Gold
+1195,2025-11-02,2044,Meera Joshi,30,Male,Jaipur,Electronics,Laptop,3,2682,15,6839.1,5503.71,1335.39,UPI,3.0,No,4.0,Google,Gold
+1196,2025-12-31,2033,Arjun Sharma,56,Male,Chennai,Beauty,Face Wash,5,4433,5,21056.75,12488.9,8567.85,UPI,7.0,No,1.0,Instagram,Gold
+1197,2025-05-10,2081,Aarav Verma,44,Male,Chennai,Beauty,Face Wash,4,3939,15,13392.6,7945.27,5447.33,COD,7.0,No,2.0,Google,Silver
+1198,2025-04-12,2046,Neha Nair,36,Male,Delhi,Electronics,Laptop,3,1233,30,2589.3,1520.42,1068.88,Net Banking,3.0,No,3.0,Referral,Silver
+1199,2025-12-09,2093,Neha Patel,34,Male,Jaipur,Clothing,T-Shirt,1,1029,0,1029.0,866.76,162.24,COD,2.0,No,1.0,Instagram,Gold
+1200,2025-08-07,2002,Diya Gupta,39,Female,Jaipur,Clothing,T-Shirt,3,3250,30,6825.0,5370.38,1454.62,COD,2.0,No,1.0,Instagram,Silver
+1201,2025-05-20,2114,Diya Patel,26,Male,Mumbai,Books,Python Book,1,3583,15,3045.55,2700.82,344.73,UPI,7.0,No,4.0,Referral,Normal
+1202,2025-01-15,2015,Kabir Reddy,20,Male,Pune,Beauty,Shampoo,2,3410,30,4774.0,3224.88,1549.12,COD,5.0,Yes,2.0,Google,Normal
+1203,2025-12-13,2115,Sneha Sharma,18,Male,Bangalore,Books,Novel,4,2336,15,7942.4,5329.45,2612.95,Net Banking,6.0,No,2.0,Google,Gold
+1204,2025-04-25,2011,Meera Reddy,54,Female,Delhi,Sports,Yoga Mat,2,3010,10,5418.0,3075.38,2342.62,Net Banking,3.0,No,4.0,Instagram,Silver
+1205,2025-10-09,2082,Rohan Singh,59,Female,Pune,Beauty,Face Wash,1,3604,15,3063.4,1723.29,1340.11,COD,6.0,No,1.0,Google,Silver
+1206,2025-12-04,2103,Rohan Joshi,24,Male,Mumbai,Books,Biography,3,4007,0,12021.0,7021.5,4999.5,Net Banking,7.0,Yes,3.0,Referral,Gold
+1207,2025-08-23,2097,Kabir Sharma,58,Male,Jaipur,Books,Python Book,2,1289,30,1804.6,1240.69,563.91,Net Banking,2.0,No,2.0,Google,Silver
+1208,2025-09-18,2094,Diya Patel,42,Female,Bangalore,Electronics,Laptop,5,3845,30,13457.5,10157.62,3299.88,Net Banking,3.0,No,2.0,Google,Silver
+1209,2025-07-31,2071,Priya Singh,30,Male,Bangalore,Sports,Yoga Mat,3,4009,30,8418.9,5023.39,3395.51,COD,7.0,No,5.0,Google,Normal
+1210,2025-12-30,2074,Ishaan Nair,52,Female,Jaipur,Beauty,Perfume,5,4744,25,17790.0,13750.02,4039.98,UPI,6.0,No,3.0,Instagram,Silver
+1211,2025-03-24,2089,Rohan Singh,52,Male,Pune,Clothing,T-Shirt,1,1937,10,1743.3,1416.54,326.76,Net Banking,2.0,Yes,3.0,Google,Normal
+1212,2025-12-23,2054,Ishaan Joshi,53,Male,Delhi,Beauty,Shampoo,2,4485,30,6279.0,5204.61,1074.39,COD,5.0,No,1.0,Referral,Gold
+1213,2025-04-10,2024,Diya Patel,42,Male,Jaipur,Beauty,Lipstick,5,4777,25,17913.75,13635.69,4278.06,COD,2.0,No,2.0,Google,Gold
+1214,2025-03-21,2120,Ishaan Verma,49,Female,Delhi,Home,Chair,1,3007,15,2555.95,2040.65,515.3,COD,8.0,No,3.0,Google,Normal
+1215,2025-06-28,2047,Rohan Singh,57,Female,Bangalore,Electronics,Smartphone,4,4748,20,15193.6,10501.76,4691.84,UPI,4.0,Yes,2.0,Facebook,Silver
+1216,2025-02-28,2117,Arjun Joshi,50,Female,Jaipur,Clothing,Jeans,1,2929,15,2489.65,2167.43,322.22,UPI,2.0,No,5.0,Google,Silver
+1217,2025-01-04,2028,Ishaan Nair,24,Male,Bangalore,Home,Mixer,1,1671,30,1169.7,863.58,306.12,Net Banking,8.0,No,2.0,Instagram,Normal
+1218,2025-02-14,2010,Sneha Singh,34,Female,Jaipur,Beauty,Perfume,1,4061,25,3045.75,2028.78,1016.97,Net Banking,6.0,No,2.0,Referral,Silver
+1219,2025-11-13,2109,Vivaan Joshi,50,Male,Pune,Electronics,Smartwatch,1,4681,0,4681.0,3625.42,1055.58,COD,7.0,No,,Facebook,Silver
+1220,2025-03-11,2019,Rohan Joshi,18,Male,Delhi,Sports,Dumbbells,1,4182,5,3972.9,2926.89,1046.01,UPI,7.0,Yes,5.0,Referral,Normal
+1221,2025-06-26,2029,Sneha Verma,30,Male,Mumbai,Home,Mixer,3,2020,25,4545.0,3679.18,865.82,UPI,3.0,No,5.0,Referral,Normal
+1222,2025-10-25,2084,Ananya Patel,36,Male,Mumbai,Home,Mixer,3,851,10,2297.7,1342.71,954.99,COD,7.0,No,3.0,Facebook,Normal
+1223,2025-06-11,2101,Ananya Nair,35,Female,Mumbai,Beauty,Lipstick,5,1548,20,6192.0,4634.1,1557.9,COD,4.0,No,2.0,Referral,Silver
+1224,2025-11-07,2115,Arjun Singh,34,Male,Chennai,Books,Data Science Book,4,4819,0,19276.0,11787.65,7488.35,UPI,3.0,No,3.0,Instagram,Normal
+1225,2025-10-06,2020,Priya Nair,32,Female,Mumbai,Home,Table Lamp,5,2042,0,10210.0,7586.62,2623.38,Net Banking,8.0,No,5.0,Instagram,Silver
+1226,2025-08-17,2112,Diya Reddy,40,Male,Mumbai,Books,Novel,2,1658,30,2321.2,1694.35,626.85,Net Banking,7.0,No,5.0,Facebook,Silver
+1227,2025-08-29,2014,Neha Verma,34,Male,Jaipur,Clothing,T-Shirt,2,4542,30,6358.8,4301.33,2057.47,Net Banking,6.0,No,1.0,Instagram,Normal
+1228,2025-06-26,2065,Diya Reddy,28,Male,Delhi,Books,Biography,2,4530,15,7701.0,5186.73,2514.27,COD,2.0,No,4.0,Google,Gold
+1229,2025-02-28,2021,Ishaan Nair,19,Male,Delhi,Books,Novel,2,3696,30,5174.4,3443.97,1730.43,Card,6.0,No,4.0,Google,Gold
+1230,2025-04-03,2082,Aarav Verma,23,Male,Jaipur,Beauty,Face Wash,5,1503,0,7515.0,4570.77,2944.23,Net Banking,6.0,No,4.0,Google,Gold
+1231,2025-05-16,2076,Vivaan Singh,42,Female,Mumbai,Sports,Cricket Bat,5,1789,20,7156.0,5587.96,1568.04,UPI,6.0,Yes,3.0,Referral,Gold
+1232,2025-09-30,2017,Sneha Sharma,59,Female,Bangalore,Home,Mixer,2,4198,20,6716.8,5104.33,1612.47,Net Banking,7.0,No,1.0,Instagram,Normal
+1233,2025-06-29,2033,Meera Singh,23,Female,Bangalore,Home,Table Lamp,2,4249,30,5948.6,4872.11,1076.49,Net Banking,3.0,No,5.0,Instagram,Normal
+1234,2025-07-12,2020,Kabir Verma,34,Female,Bangalore,Beauty,Face Wash,5,4580,0,22900.0,16760.89,6139.11,COD,2.0,No,3.0,Referral,Gold
+1235,2025-05-10,2051,Neha Gupta,60,Male,Chennai,Sports,Dumbbells,2,3332,20,5331.2,3967.58,1363.62,Card,7.0,No,5.0,Google,Gold
+1236,2025-12-28,2103,Vivaan Gupta,48,Female,Delhi,Clothing,Shoes,3,4810,20,11544.0,9165.59,2378.41,UPI,2.0,No,4.0,Facebook,Gold
+1237,2025-05-27,2105,Diya Reddy,46,Male,Mumbai,Home,Mixer,4,3582,20,11462.4,8936.79,2525.61,COD,8.0,No,5.0,Google,Normal
+1238,2025-03-22,2086,Kabir Nair,55,Male,Bangalore,Clothing,T-Shirt,3,2259,25,5082.75,2796.02,2286.73,UPI,4.0,No,3.0,Instagram,Gold
+1239,2025-05-22,2074,Aarav Verma,29,Female,Bangalore,Home,Chair,5,3151,10,14179.5,12579.35,1600.15,UPI,5.0,No,2.0,Facebook,Silver
+1240,2025-07-13,2059,Ishaan Reddy,55,Male,Jaipur,Electronics,Headphones,5,2349,25,8808.75,6209.9,2598.85,UPI,8.0,No,2.0,Referral,Normal
+1241,2025-01-05,2052,Ishaan Joshi,22,Male,Jaipur,Clothing,Jeans,3,3678,10,9930.6,7257.05,2673.55,COD,2.0,No,3.0,Facebook,Gold
+1242,2025-05-16,2080,Priya Gupta,24,Male,Delhi,Beauty,Perfume,4,1935,5,7353.0,5936.81,1416.19,Net Banking,8.0,No,2.0,Instagram,Silver
+1243,2025-09-19,2007,Arjun Nair,48,Male,Bangalore,Books,Data Science Book,4,2550,15,8670.0,5323.42,3346.58,COD,3.0,No,2.0,Google,Silver
+1244,2025-07-14,2034,Diya Verma,33,Female,Jaipur,Electronics,Smartwatch,3,368,0,1104.0,867.67,236.33,COD,8.0,No,3.0,Referral,Silver
+1245,2025-08-19,2030,Vivaan Verma,33,Female,Jaipur,Clothing,Shoes,3,3290,30,6909.0,4768.64,2140.36,Card,7.0,Yes,2.0,Google,Silver
+1246,2025-11-19,2033,Arjun Sharma,43,Male,Chennai,Electronics,Smartphone,4,4392,5,16689.6,14994.71,1694.89,Card,4.0,Yes,3.0,Facebook,Silver
+1247,2025-10-14,2016,Priya Singh,54,Male,Pune,Beauty,Face Wash,4,3041,10,10947.6,7404.26,3543.34,COD,5.0,No,3.0,Referral,Normal
+1248,2025-03-16,2074,Kabir Patel,23,Male,Pune,Sports,Football,4,2647,15,8999.8,6939.74,2060.06,Card,6.0,No,3.0,Facebook,Normal
+1249,2025-07-05,2022,Diya Sharma,26,Male,Chennai,Books,Biography,3,3944,30,8282.4,7056.46,1225.94,COD,5.0,No,5.0,Instagram,Gold
+1250,2025-08-31,2098,Vivaan Patel,34,Male,Delhi,Clothing,Shoes,1,1082,0,1082.0,949.86,132.14,Net Banking,6.0,No,1.0,Google,Normal
+1251,2025-01-15,2111,Meera Reddy,52,Female,Bangalore,Books,Biography,2,1375,20,2200.0,1855.66,344.34,Net Banking,4.0,Yes,3.0,Google,Normal
+1252,2025-10-01,2104,Vivaan Reddy,37,Female,Jaipur,Home,Table Lamp,5,3863,20,15452.0,11958.69,3493.31,COD,3.0,No,3.0,Instagram,Gold
+1253,2025-12-19,2056,Rohan Singh,18,Female,Mumbai,Home,Vacuum Cleaner,3,2649,15,6754.95,4980.32,1774.63,Net Banking,8.0,No,4.0,Referral,Silver
+1254,2025-08-05,2104,Neha Verma,36,Female,Jaipur,Clothing,Jeans,4,3399,5,12916.2,8292.76,4623.44,Card,6.0,No,5.0,Google,Gold
+1255,2025-09-09,2003,Diya Patel,36,Female,Mumbai,Books,Novel,4,4009,10,14432.4,11476.15,2956.25,Net Banking,6.0,No,1.0,Google,Gold
+1256,2025-09-13,2043,Vivaan Gupta,21,Female,Jaipur,Clothing,T-Shirt,4,2079,10,7484.4,5217.26,2267.14,UPI,2.0,No,4.0,Google,Gold
+1257,2025-07-17,2026,Meera Patel,51,Male,Jaipur,Books,Biography,1,1299,30,909.3,727.57,181.73,Net Banking,2.0,No,4.0,Facebook,Silver
+1258,2025-11-23,2086,Ananya Patel,33,Female,Pune,Clothing,T-Shirt,5,4567,0,22835.0,14583.79,8251.21,UPI,8.0,No,3.0,Facebook,Normal
+1259,2025-12-20,2012,Ananya Gupta,49,Male,Chennai,Electronics,Smartwatch,2,373,0,746.0,562.02,183.98,COD,8.0,No,5.0,Instagram,Gold
+1260,2025-06-12,2094,Ananya Sharma,42,Female,Chennai,Books,Python Book,5,1179,5,5600.25,4036.35,1563.9,Card,5.0,No,3.0,Instagram,Silver
+1261,2025-04-08,2060,Rohan Gupta,22,Male,Jaipur,Beauty,Shampoo,5,2714,20,10856.0,8619.26,2236.74,COD,7.0,No,5.0,Facebook,Silver
+1262,2025-11-14,2105,Kabir Singh,51,Female,Bangalore,Electronics,Smartwatch,2,453,20,724.8,616.0,108.8,Card,6.0,No,1.0,Facebook,Silver
+1263,2025-01-23,2026,Vivaan Reddy,30,Male,Delhi,Beauty,Lipstick,1,1088,20,870.4,679.44,190.96,Net Banking,2.0,No,2.0,Facebook,Gold
+1264,2025-04-17,2008,Priya Nair,41,Male,Bangalore,Books,Python Book,5,880,0,4400.0,3852.52,547.48,COD,7.0,No,1.0,Instagram,Silver
+1265,2025-09-30,2073,Ishaan Gupta,53,Female,Chennai,Electronics,Smartphone,5,1095,0,5475.0,4400.86,1074.14,UPI,3.0,No,2.0,Facebook,Normal
+1266,2025-07-25,2057,Priya Joshi,53,Female,Pune,Sports,Dumbbells,1,1666,30,1166.2,715.04,451.16,Net Banking,6.0,No,2.0,Referral,Normal
+1267,2025-10-09,2058,Kabir Sharma,20,Female,Bangalore,Books,Python Book,5,4769,5,22652.75,15432.69,7220.06,UPI,5.0,No,3.0,Facebook,Gold
+1268,2025-12-20,2119,Sneha Gupta,24,Male,Jaipur,Books,Python Book,2,2879,0,5758.0,4721.75,1036.25,COD,6.0,No,5.0,Facebook,Silver
+1269,2025-10-20,2042,Meera Gupta,49,Male,Bangalore,Home,Vacuum Cleaner,2,2399,30,3358.6,2200.24,1158.36,COD,7.0,Yes,2.0,Referral,Gold
+1270,2025-03-03,2078,Aarav Nair,21,Female,Bangalore,Electronics,Headphones,3,3857,15,9835.35,8611.7,1223.65,UPI,8.0,No,2.0,Google,Silver
+1271,2025-07-21,2029,Kabir Verma,43,Male,Mumbai,Home,Vacuum Cleaner,2,713,25,1069.5,862.07,207.43,COD,2.0,Yes,5.0,Instagram,Normal
+1272,2025-12-24,2063,Kabir Singh,53,Male,Mumbai,Sports,Yoga Mat,1,3564,20,2851.2,2001.75,849.45,UPI,3.0,No,2.0,Referral,Silver
+1273,2025-04-08,2040,Diya Joshi,57,Female,Bangalore,Beauty,Face Wash,1,3688,15,3134.8,2124.9,1009.9,Card,8.0,No,5.0,Google,Gold
+1274,2025-05-05,2037,Aarav Joshi,25,Female,Jaipur,Beauty,Lipstick,2,1002,0,2004.0,1620.94,383.06,Net Banking,8.0,Yes,2.0,Google,Normal
+1275,2025-10-08,2003,Kabir Sharma,34,Male,Delhi,Home,Vacuum Cleaner,2,4776,20,7641.6,6209.75,1431.85,COD,7.0,No,2.0,Facebook,Gold
+1276,2025-12-04,2030,Kabir Patel,38,Female,Bangalore,Sports,Football,1,3483,25,2612.25,1684.79,927.46,UPI,7.0,No,1.0,Referral,Normal
+1277,2025-09-08,2046,Ishaan Verma,33,Female,Delhi,Beauty,Face Wash,1,2326,20,1860.8,1222.03,638.77,COD,6.0,No,2.0,Instagram,Normal
+1278,2025-02-14,2112,Ishaan Singh,44,Male,Bangalore,Books,Python Book,2,3099,15,5268.3,4108.88,1159.42,Card,6.0,No,5.0,Facebook,Normal
+1279,2025-10-25,2089,Neha Gupta,45,Male,Chennai,Books,Biography,5,1379,5,6550.25,5098.49,1451.76,Card,4.0,No,2.0,Instagram,Gold
+1280,2025-06-05,2014,Diya Gupta,19,Female,Bangalore,Books,Python Book,1,2910,15,2473.5,2192.56,280.94,Card,3.0,No,3.0,Google,Normal
+1281,2025-11-06,2063,Meera Gupta,28,Male,Mumbai,Electronics,Headphones,1,4204,5,3993.8,2898.75,1095.05,UPI,5.0,No,3.0,Instagram,Silver
+1282,2025-08-13,2059,Ananya Nair,43,Male,Bangalore,Sports,Cricket Bat,2,1975,0,3950.0,2417.31,1532.69,Net Banking,8.0,No,4.0,Referral,Normal
+1283,2025-01-22,2095,Aarav Nair,51,Male,Mumbai,Beauty,Face Wash,5,1195,15,5078.75,3605.48,1473.27,COD,5.0,No,2.0,Facebook,Silver
+1284,2025-12-20,2058,Vivaan Patel,29,Male,Jaipur,Sports,Cricket Bat,4,2711,20,8675.2,7561.84,1113.36,Net Banking,7.0,No,2.0,Instagram,Gold
+1285,2025-11-29,2012,Vivaan Reddy,58,Female,Delhi,Sports,Cricket Bat,4,1038,10,3736.8,2479.09,1257.71,Net Banking,2.0,No,2.0,Google,Silver
+1286,2025-12-04,2099,Neha Sharma,44,Female,Pune,Home,Table Lamp,1,1699,10,1529.1,1143.65,385.45,Net Banking,3.0,No,2.0,Google,Gold
+1287,2025-09-13,2031,Ananya Reddy,47,Female,Jaipur,Clothing,Jeans,1,2373,0,2373.0,1686.08,686.92,UPI,5.0,No,1.0,Instagram,Gold
+1288,2025-01-26,2019,Aarav Verma,39,Male,Delhi,Home,Chair,5,4867,30,17034.5,14289.19,2745.31,UPI,2.0,No,1.0,Google,Gold
+1289,2025-08-22,2099,Rohan Joshi,41,Female,Delhi,Beauty,Lipstick,5,4988,30,17458.0,13036.97,4421.03,Net Banking,2.0,No,3.0,Instagram,Silver
+1290,2025-09-26,2074,Neha Patel,48,Female,Jaipur,Sports,Cricket Bat,1,2548,10,2293.2,1684.28,608.92,COD,2.0,No,2.0,Facebook,Gold
+1291,2025-11-09,2016,Aarav Reddy,58,Male,Chennai,Home,Table Lamp,5,4377,15,18602.25,15491.83,3110.42,Card,2.0,No,3.0,Referral,Silver
+1292,2025-01-06,2040,Rohan Joshi,18,Male,Chennai,Electronics,Headphones,3,4890,30,10269.0,7939.23,2329.77,COD,2.0,No,3.0,Instagram,Gold
+1293,2025-11-27,2069,Priya Reddy,44,Male,Bangalore,Clothing,Jacket,3,4224,15,10771.2,8929.75,1841.45,COD,8.0,No,2.0,Facebook,Normal
+1294,2025-07-01,2044,Kabir Gupta,54,Female,Mumbai,Home,Mixer,2,3017,30,4223.8,3677.52,546.28,UPI,2.0,No,2.0,Facebook,Normal
+1295,2025-05-02,2023,Vivaan Joshi,20,Male,Delhi,Books,Novel,3,3690,0,11070.0,8014.34,3055.66,Net Banking,4.0,No,3.0,Referral,Normal
+1296,2025-06-08,2106,Arjun Gupta,31,Male,Jaipur,Clothing,Jeans,3,4260,25,9585.0,8203.4,1381.6,Net Banking,2.0,No,2.0,Instagram,Gold
+1297,2025-01-24,2082,Ananya Joshi,30,Male,Pune,Books,Novel,5,1013,10,4558.5,3252.06,1306.44,COD,5.0,No,3.0,Referral,Normal
+1298,2025-11-15,2071,Priya Verma,27,Female,Bangalore,Electronics,Headphones,2,1590,10,2862.0,1688.75,1173.25,Card,4.0,No,1.0,Facebook,Normal
+1299,2025-12-12,2051,Diya Reddy,57,Female,Pune,Books,Biography,1,1365,0,1365.0,975.64,389.36,COD,5.0,No,4.0,Instagram,Silver
+1300,2025-12-17,2019,Sneha Verma,41,Female,Mumbai,Home,Vacuum Cleaner,1,4136,0,4136.0,2934.3,1201.7,COD,3.0,No,4.0,Facebook,Silver
+1011,2025-08-28,2013,Aarav Nair,39,Male,Mumbai,Clothing,T-Shirt,1,3831,10,3447.9,2407.5,1040.4,Card,7.0,No,1.0,Referral,Gold
+1026,2025-03-04,2077,Priya Reddy,57,Female,Bangalore,Clothing,Jeans,5,4105,0,20525.0,15293.01,5231.99,Net Banking,6.0,No,4.0,Referral,Silver
